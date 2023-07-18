@@ -5,7 +5,7 @@ ChatGPT全模型 + GPT4-32k + 文心一言  ,Midjourney绘画API、WSS、CDN反�
 - TG群：<a  target="_blank"  href="https://t.me/+c7OsQs5N2Rg0ZjYx">点击进群</a>
 
 站点
-- <a  target="_blank"  href="http://vip.talktoai.club/auth?type=register&invite=Mg">点我立即进入体验：</a>注册时使用邀请码：Mg，可以获得对应的邀请奖励以体验功能。
+- <a  target="_blank"  href="https://vip.talktoai.club/auth?type=register&invite=Mg">点我立即进入体验：</a>注册时使用邀请码：Mg，可以获得对应的邀请奖励以体验功能。
 - 后台管理：因数据问题不便演示，请参考本文档最底部的【演示截图】-【后台管理】，若想看更多后台的配置截图请私信群管理。
 
 技术架构
