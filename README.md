@@ -48,4 +48,13 @@ PC端口应用程序支持 安装即可使用
 演示截图
 截图非实时更新，实际请以最新的为准
 
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/14.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/2.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/4.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/6.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/7.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/8.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/9.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/10.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/11.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/12.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/13.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/14.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15-1.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/16.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/17.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/18.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/19.png"/>
