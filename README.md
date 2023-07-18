@@ -51,11 +51,11 @@ PC应用程序端：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/2.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/4.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/6.png"/>
-
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/7.png"/>
 手机端：
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15-1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/16.png"/>
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/17.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/18.png"/>
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/19.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/7.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15-1.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/16.PNG"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/17.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/18.PNG"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/19.png"/>
 
 后台：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/8.png"/>
