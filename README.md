@@ -2,7 +2,7 @@
 ChatGPT全模型 + GPT4-32k + 文心一言  ,Midjourney绘画API、WSS、CDN反向代理支持
 PC端口应用程序支持 安装即可使用
 交流咨询
-- QQ群： <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=35_dAT42wzB_EeIwtORTzdJ5XPqDB6KI&authKey=l8E%2Bm37lsE3XabTxwrEPmDecLMOFcTPD11lGtqsvmqltMW4tdZHjmeMGkao%2B%2FwXq&noverify=0&group_code=686489115">一键加入群 
+- QQ群： <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GaoIQZ25WLXeFu7InwADlozIr4GYuCQT&authKey=36V43vid6fomB8UJqdp50%2BQhURNUE4et2kfRtzFRDlH5j1SFEIPCIOKGSTec1rEb&noverify=0&group_code=686489115">一键加入群 
 - TG群：<a  target="_blank"  href="https://t.me/+c7OsQs5N2Rg0ZjYx">点击进群</a>
 
 站点
