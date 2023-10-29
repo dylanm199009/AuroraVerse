@@ -7,7 +7,7 @@ PC端口应用程序支持 安装即可使用
 
 站点
 - <a  target="_blank"  href="https://vip.talktoai.club/auth?type=register&invite=Mg">点我立即进入体验：</a>注册时使用邀请码：Mg，可以获得对应的邀请奖励以体验功能。
-  <video width="600" controls>
+-  <video width="600" controls>
         <source src="https://github.com/dylanm199009/AuroraVerse/blob/main/show.mp4" type="video/mp4">
         Your browser does not support HTML5 video.
     </video>
