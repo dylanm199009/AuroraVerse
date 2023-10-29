@@ -7,7 +7,7 @@ PC端口应用程序支持 安装即可使用
 
 站点
 - <a  target="_blank"  href="https://vip.talktoai.club/auth?type=register&invite=Mg">点我立即进入体验：</a>注册时使用邀请码：Mg，可以获得对应的邀请奖励以体验功能。
-- [![对话插件功能视频](https://github.com/dylanm199009/AuroraVerse/blob/main/p-3.png)](https://github.com/dylanm199009/AuroraVerse/blob/main/show.mp4)
+- [![对话插件功能视频](https://github.com/dylanm199009/AuroraVerse/blob/main/p-3.png)](https://github.com/dylanm199009/AuroraVerse/blob/main/show.mp4){:target="_blank"}
 - 后台管理：因数据问题不便演示，请参考本文档最底部的【演示截图】-【后台管理】，若想看更多后台的配置截图请私信群管理。
 技术架构
 - 前端：Vue3 + NaiveUI
