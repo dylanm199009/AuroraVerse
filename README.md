@@ -1,5 +1,5 @@
 # AuroraVerse
-ChatGPT全模型 + GPT4-32k + 文心一言  ,Midjourney绘画API、WSS、CDN反向代理支持
+ChatGPT全模型    ,Midjourney绘画API、WSS、CDN反向代理支持
 PC端口应用程序支持 安装即可使用
 交流咨询
 - QQ群： <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GaoIQZ25WLXeFu7InwADlozIr4GYuCQT&authKey=36V43vid6fomB8UJqdp50%2BQhURNUE4et2kfRtzFRDlH5j1SFEIPCIOKGSTec1rEb&noverify=0&group_code=686489115">一键加入群 
@@ -27,6 +27,7 @@ PC端口应用程序支持 安装即可使用
 -  多会话隔离支持
 -  各会话参数独立配置云端存储
 -  会话消息云端漫游
+- 🔥 midjourney区域重绘 平移 放大4倍
 - 🔥 AI应用对话预设角色
 - 🔥 AI对话插件功能:实时联网 网页总结 stable diffusion画图 微博热搜 今日热点 抖音美女 天气IP等搜索
 - 🔥 内容安全多层过滤：内置词库 -> 自定义词库 -> 第三方（百度内容审核）安全检测，可同时启用
