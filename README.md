@@ -7,8 +7,11 @@ PC端口应用程序支持 安装即可使用
 
 站点
 - <a  target="_blank"  href="https://vip.talktoai.club/auth?type=register&invite=Mg">点我立即进入体验：</a>注册时使用邀请码：Mg，可以获得对应的邀请奖励以体验功能。
+  <video width="600" controls>
+        <source src="https://github.com/dylanm199009/AuroraVerse/blob/main/show.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
 - 后台管理：因数据问题不便演示，请参考本文档最底部的【演示截图】-【后台管理】，若想看更多后台的配置截图请私信群管理。
-
 技术架构
 - 前端：Vue3 + NaiveUI
 - 后端：Golang + Gin
@@ -50,6 +53,9 @@ PC端口应用程序支持 安装即可使用
 演示截图
 截图非实时更新，实际请以最新的为准
 PC应用程序端：
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-2.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-4.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-6.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/2.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/4.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/6.png"/>
