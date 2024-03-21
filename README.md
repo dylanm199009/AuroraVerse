@@ -37,14 +37,14 @@ PC端口应用程序支持 安装即可使用
 截图非实时更新，实际请以最新的为准
 PC应用程序端：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-2.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/文生视频.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/图生视频.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/mj.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/定制训练模型GPTs.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-4.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/p-6.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/1.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/2.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/4.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/6.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/7.png"/>
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/文生视频.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/mj.png"/>
-<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/图生视频.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/定制训练模型GPTs.png"/>
 手机端：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15-1.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/16.PNG"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/17.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/18.PNG"/>
