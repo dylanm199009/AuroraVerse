@@ -12,15 +12,17 @@ PC端口应用程序支持 安装即可使用
 
 特性功能
 -  ChatGPT最新视觉多模态 (可上传图片识别分析)+128K模型（上下文最大128K） 数据更新至23年4月
--  思维导图
+-  思维导图、PDF解析
 -  dallE3绘图
 -  AI对话token消耗
+-  可选预训练模型+GPTs 深度体验知识库的魅力
 -  讯飞 智谱大模型
 -  🔥<b>文生视频、图生视频</b>
-- 🔥 midjourney区域重绘 平移 放大4倍
+- 🔥 midjourney区域重绘 平移 放大4倍，角色一致、风格一致支持，可自定义权重参考图等
 - 🔥 AI应用对话预设角色
 - 🔥 AI对话插件功能:实时联网 网页总结 stable diffusion画图 微博热搜 今日热点 抖音美女 天气IP等搜索
 - 🔥 AI绘画支持：文生图 / 放大 / 微调 / 垫图 / 混图 / 咒语解析
+- 应用推广、签到
 -  绘画画廊：用户绘图公开展示（私有绘图不展示）
 -  应用市场：可后台管理动态添加及其他管理
 -  套餐系统：支持周期内每日重置 + 固定周期内总量多种方式
@@ -41,6 +43,8 @@ PC应用程序端：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/3.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/4.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/5.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/6.png"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/7.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/文生视频.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/mj.png"/>
+<image src="https://github.com/dylanm199009/AuroraVerse/blob/main/图生视频.png"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/定制训练模型GPTs.png"/>
 手机端：
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/15-1.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/16.PNG"/>
 <image src="https://github.com/dylanm199009/AuroraVerse/blob/main/17.PNG"/><image src="https://github.com/dylanm199009/AuroraVerse/blob/main/18.PNG"/>
